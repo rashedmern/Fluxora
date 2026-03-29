@@ -1,11 +1,14 @@
-import React from 'react'
+﻿import React from "react"
+import Container from "./Container"
 
-const navbar = () => {
+export default function Navbar() {
   return (
-    <div>
-      
+    <div className="w-full py-4">
+      <Container>
+        <div>
+            <img src="../Images/Logo.png" alt="Fluxora Logo" className="h-8" />
+        </div>
+      </Container>
     </div>
   )
 }
-
-export default navbar
