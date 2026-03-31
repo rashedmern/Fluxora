@@ -35,7 +35,7 @@ transition font-inter text-[14px] mt-10 whitespace-nowrap px-1"
             <img
               src="./Images/banner.png"
               alt="VR person"
-              className="w-[300px] h-[200px] object-cover transition duration-500 blur-sm hover:blur-none"
+              className="w-[300px] h-[200px] object-cover transition duration-500 "
             />
           </div>
           {/* Image 2 */}
@@ -43,7 +43,7 @@ transition font-inter text-[14px] mt-10 whitespace-nowrap px-1"
             <img
               src="./Images/banner.png"
               alt="Girl on phone"
-              className="w-[300px] h-[200px] object-cover transition duration-500 blur-sm hover:blur-none"
+              className="w-[300px] h-[200px] object-cover transition duration-500 "
             />
           </div>
           {/* Image 3 */}
@@ -51,7 +51,7 @@ transition font-inter text-[14px] mt-10 whitespace-nowrap px-1"
             <img
               src="./Images/banner.png"
               alt="Woman working"
-              className="w-[300px] h-[200px] object-cover transition duration-500 blur-sm hover:blur-none"
+              className="w-[300px] h-[200px] object-cover transition duration-500 "
             />
           </div>
           {/* Image 4 */}
@@ -59,7 +59,7 @@ transition font-inter text-[14px] mt-10 whitespace-nowrap px-1"
             <img
               src="./Images/banner.png"
               alt="Man working"
-              className="w-[300px] h-[200px] object-cover transition duration-500 blur-sm hover:blur-none"
+              className="w-[300px] h-[200px] object-cover transition duration-500 "
             />
           </div>
         </div>
