@@ -4,7 +4,6 @@ import Banner from "./components/banner"
 import Clients from "./components/clients"
 import Solutions from "./components/solutions"
 import Growth from "./components/growth"
-import Journey from "./components/journey"
 import MindPower from "./components/mindpower"
 import BetterPart from "./components/betterpart"
 import Operators from "./components/oparetors"
@@ -20,7 +19,6 @@ export default function App() {
       <Clients />
       <Solutions />
       <Growth />
-      <Journey />
       <MindPower />
       <BetterPart />
       <Operators />
