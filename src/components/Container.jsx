@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Container({ children, className = '' }) {
   return (
-    <div className={`mx-auto ${className}`} style={{ width: '933px' }}>
+    <div className={`mx-auto ${className}`} style={{ width: '1040px' }}>
       {children}
     </div>
   )
