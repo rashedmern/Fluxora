@@ -17,8 +17,8 @@ export default function App() {
       <Navbar />
       <Banner />
       <Clients />
-      <Solutions />
       <Growth />
+      <Solutions />
       <MindPower />
       <BetterPart />
       <Operators />
