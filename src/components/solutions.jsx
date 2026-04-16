@@ -5,11 +5,10 @@ export default function Solutions() {
   return (
       <Container>
               <h1 className="text-center text-[48px] font-inter font-medium text-[#2C2C2C] mt-30 leading-[110%]">
-         Selected Clients
+         Solutions We Deliver
         </h1>
         <p className="text-center text-[16px] font-inter font-regular leading-[140%] tracking-[-4%] text-[#575757] mt-5">
-          Our impact spans from Fortune 500 titans to visionary startups born in <br />
-          basements. Wherever you start, we help you go bigger, faster, louder.
+          We combine strategy, design, and execution to build <br /> digital systems that drive measurable growth.
         </p>
 
             <div class="mt-12 border border-[#E5E5E5] rounded-2xl overflow-hidden">

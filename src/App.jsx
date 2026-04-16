@@ -6,7 +6,7 @@ import Solutions from "./components/solutions"
 import Growth from "./components/growth"
 import MindPower from "./components/mindpower"
 import BetterPart from "./components/betterpart"
-import Operators from "./components/oparetors"
+import Operators from "./components/operators"
 import QA from "./components/qa"
 import UpFooter from "./components/upfooter"
 import Footer from "./components/footer"
@@ -19,10 +19,11 @@ export default function App() {
       <Clients />
       <Growth />
       <Solutions />
-      <MindPower />
-      <BetterPart />
-      <Operators />
+      <MindPower />\
       <QA />
+      <BetterPart />
+      
+      <Operators />
       <UpFooter />
       <Footer />
     </div>

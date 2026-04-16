@@ -1,6 +1,6 @@
 import React from 'react'
 
-const mindpower = () => {
+const oparetors = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ const mindpower = () => {
   )
 }
 
-export default mindpower
+export default oparetors
