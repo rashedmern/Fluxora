@@ -19,11 +19,10 @@ export default function App() {
       <Clients />
       <Growth />
       <Solutions />
+      <Operators />
       <MindPower />\
       <QA />
       <BetterPart />
-      
-      <Operators />
       <UpFooter />
       <Footer />
     </div>
